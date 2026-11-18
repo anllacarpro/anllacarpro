@@ -59,7 +59,7 @@ Technology engineer at **BCP**, with a platform and DevOps background across ban
 
 | Period | Role | Highlights |
 |---|---|---|
-| **Sep 2026 – present** | Technology engineer, **BCP** | Technology engineering in banking, building on a platform, DevOps and DevSecOps background |
+| **Sep 2026 – present** | Technology engineer, **BCP** | Remediating security vulnerabilities (CVEs) across the platform · researching new Databricks features to define corporate standards for secure adoption |
 | **May 2026 – Sep 2026** | DevOps / platform engineer, **Globant** (client: Autodesk) | Led ARM64/Graviton enablement for containerized services on AWS ECS · multi-arch CI pipelines and sidecar images · Golden Path docs and AI-assisted automation for developer onboarding · fully remote work with global engineering squads |
 | **Sep 2025 – May 2026** | Senior DevOps engineer, **NTT DATA (iO – BCP)** | Databricks Delta Sharing on GCP/AWS with private connectivity · GitHub Actions GitOps with dev/qa/prod promotion · Terraform and Terragrunt modules · DevSecOps (SonarQube, Snyk, Cosign, OPA/Kyverno) · Prometheus, Grafana and ELK |
 | **Sep 2023 – Sep 2025** | DevOps engineer, **Culqi** (outsourced) | AWS infrastructure for real-time payments (EKS, ECS, Lambda, SQS) · CI/CD that cut operational errors by 40% · Terraform, CloudFormation and Ansible · monitoring and FinOps |
@@ -78,6 +78,8 @@ Technology engineer at **BCP**, with a platform and DevOps background across ban
 <a href="https://github.com/anllacarpro/mibanco-devsecops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anllacarpro&repo=mibanco-devsecops&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="mibanco-devsecops" /></a>
 
 </div>
+
+**🤖 GitHub Actions to Jenkins skill:** AI automation that converts GitHub Actions workflows into equivalent Jenkins pipelines (triggers, jobs, steps, variables and secrets), built at Globant to speed up CI migrations.
 
 **🔐 [Password Intelligence API](https://pwd.adecv.com/)** (thesis): evaluates password strength with dense neural networks (CNN + LSTM). Flask API for real-time classification, 85% test accuracy trained on 300,000 real-world samples, plus HIBP checks with k-anonymity for privacy. Built with Python, Flask, TensorFlow and Keras, deployed on GCP.
 
